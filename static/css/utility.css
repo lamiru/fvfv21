@@ -1,0 +1,19 @@
+.d-block {
+  display: block;
+}
+.w-100 {
+  width: 100%;
+}
+.border-1 {
+  border-width: 1px;
+  border-style: solid;
+}
+.border-t-0 {
+  border-top-width: 0px;
+}
+.border-b-0 {
+  border-bottom-width: 0px;
+}
+.height-30 {
+  height: 30px;
+}
