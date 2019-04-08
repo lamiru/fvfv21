@@ -89,7 +89,7 @@
   <div class="bg-1c2222 mt-4 pt-3 pb-3 text-center">
     <h2 class="ml-0 mr-0 mt-1 mb-1"><span class="fw-300">미용실 홍보 책자</span><br>제작 및 배포 <span class="fw-300">안내</span></h2>
   </div>
-  <img class="w-100 mb-3" src="/static/img/process.png" alt="Process">
+  <img class="w-100 mb-3" src="/static/img/mb/process.png" alt="Process">
 </div>
 <div class="bg-ffd105 pl-2 pr-2">
   <div class="pull-left fs-18 color-1c2222 fw-600 p-2">광고상담 ＞ 02. 987. 7777</div>
