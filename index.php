@@ -179,6 +179,5 @@
 </div>
 <div class="height-20"></div>
 <div class="responsive-height"></div>
-<a href="tel:02-987-7777"><img class="visible-xs w-100" src="/static/img/mb/call.png" alt="Call"></a>
 </body>
 </html>
