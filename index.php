@@ -13,6 +13,7 @@
 <meta property="og:url" content="http://fvfv21.hubweb.net/">
 <meta property="og:description" content="온라인광고, 비지니스매칭 퓨처밸류21">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="/static/css/common.css" type="text/css">
 <!--[if lt IE 9]>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
 <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -21,7 +22,14 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <!--<![endif]-->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="/static/css/common.css" type="text/css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137991745-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-137991745-1');
+</script>
 </head>
 <body>
 <div class="bc-ffd105 border-6"></div>
