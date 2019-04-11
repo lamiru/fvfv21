@@ -1,17 +1,18 @@
 <!doctype html>
 <html lang="ko">
 <head>
+<title>퓨쳐밸류21 성형병원 전문 마케팅 플랫폼</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
 <meta name="path_role" content="MAIN">
 <meta name="author" content="퓨처밸류21">
-<meta name="description" content="온라인광고, 비지니스매칭">
+<meta name="description" content="퓨쳐밸류21 성형병원 전문 마케팅 플랫폼">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="성형외과, 미용실, 홈페이지제작, 프로그램개발, 사이트제작, 앱개발, 어플리케이션제작, 앱제작, 웹에이전시">
+<meta name="keywords" content="성형외과, 미용실, 퓨쳐밸류21, 성형병원, 전문, 마케팅, 플랫폼">
 <meta property="og:type" content="website">
-<meta property="og:title" content="퓨처밸류21">
+<meta property="og:title" content="퓨쳐밸류21 성형병원 전문 마케팅 플랫폼">
 <meta property="og:url" content="http://fvfv21.hubweb.net/">
-<meta property="og:description" content="온라인광고, 비지니스매칭 퓨처밸류21">
+<meta property="og:description" content="퓨쳐밸류21 성형병원 전문 마케팅 플랫폼">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="/static/css/common.css" type="text/css">
 <!--[if lt IE 9]>
@@ -71,7 +72,7 @@
     <div class="responsive-height"></div>
     <ul>
       <li>미용실 원장 (원장 및 근무자)이 추천하는 병원이라 인터넷 가짜 후기 광고보다 신뢰가 높아 빠른 광고 효과를 얻을 수 있습니다.</li>
-      <li>미용실을 마케팅 매개체로 활용하여 자연스럽게 성형에 대한 커뮤니티가 형성이 되며<br>아는 언니가 성형을 한 것을 보고 나고 싶고 싶다 라는 <span class="color-c3df2a fs-2 fw-600">충동이 발생합니다.</span></li>
+      <li>미용실을 마케팅 매개체로 활용하여 자연스럽게 성형에 대한 커뮤니티가 형성이 되며<br>아는 언니가 성형을 한 것을 보고 나도 하고 싶다 라는 <span class="color-c3df2a fs-2 fw-600">충동이 발생합니다.</span></li>
       <li>미용실이란 장점을 이용하여 매월 안정적으로 고객을 유치할 수 있습니다.</li>
       <li><span class="fs-2 fw-600">미용실당 </span><span class="color-ffd105 fs-2 fw-600">500원 </span>의 비용으로 광고를 진행할 수 있습니다. ( <span class="color-c3df2a">미용실 방문객 1인 광고 단가 </span><span class="color-ffd105">0.8원</span> ) 미용실 방문객 평균 최소 일일 20명(손님 지인 포함) 월 600명<br><span class="fs-2 fw-600">미용실 </span><span class="fs-2 fw-600 color-c3df2a">1만곳 </span><span class="fs-2 fw-600">방문객 </span><span class="fs-2 fw-600 color-c3df2a">600만명 </span>에게 안정적인 마케팅이 가능합니다.</li>
       <li>미용실은 방문자 손님이 최소 2~3시간 머물러 있어야 하므로 성형병원을 어필할 수 있는 충분한 시간이 있습니다.</li>
@@ -90,7 +91,7 @@
     <div class="height-20"></div>
     <div class="height-20 hidden-xs hidden-sm"></div>
     <ul>
-      <li class="color-c3df2a">미용실 손님이 병원으로 오기까지 예를 들겠습니다. 40대 손님 A씨는 미용실에 머리를 하러 왔다가 지루한 시간에 거울 앞 성형병원 미니 브로셔를 보게 되며 미용실 직원(원장)과 성형에 관련된 다양한 이야기를 하게 됩니다.<br>사람 심리가 평소에 관심은 있었으나 접할 기회가 적어 마음 속에 있던 궁금한 내용들을 미용실 직원(원장)과 편하게 이야기하며 "어느 병원 괜찮을까요?" "아는데 있는데 소개해 드릴게요~" 등등 이야기합니다.<br>그러던 중 추천한 병원으로 문의하게 되어 간단한 쌍꺼풀 수술 하려고 왔다가 이마 코 등 다양한 성형까지 하게 됩니다.</li>
+      <li class="color-ffd105">미용실 손님이 병원으로 오기까지 예를 들겠습니다. 40대 손님 A씨는 미용실에 머리를 하러 왔다가 지루한 시간에 거울 앞 성형병원 미니 브로셔를 보게 되며 미용실 직원(원장)과 성형에 관련된 다양한 이야기를 하게 됩니다.<br>사람 심리가 평소에 관심은 있었으나 접할 기회가 적어 마음 속에 있던 궁금한 내용들을 미용실 직원(원장)과 편하게 이야기하며 "어느 병원 괜찮을까요?" "아는데 있는데 소개해 드릴게요~" 등등 이야기합니다.<br>그러던 중 추천한 병원으로 문의하게 되어 간단한 쌍꺼풀 수술 하려고 왔다가 이마 코 등 다양한 성형까지 하게 됩니다.</li>
       <li class="mb-0">성형병원과 미용실 자매 결연은 한 번 맺으면 장기적으로 마케팅이 유지가 되며 지속적인 마케팅 효과가 증폭되어 발생합니다.</li>
     </ul>
     <div class="bg-163740 height-10 mw-1300 mx-auto" style="margin-top: -10px; margin-bottom: -5px;"></div>
@@ -161,7 +162,7 @@
   <img class="w-100 visible-xs" src="/static/img/mb/ad_process.png" alt="AD Process">
   <img class="w-100 hidden-xs" src="/static/img/pc/ad_process.png" alt="AD Process">
   <div class="height-10"></div>
-  <div class="color-c3df2a text-center fs-2">1차 국내 미용실 마케팅 종료 후 <br class="visible-xs">2차 중국 미용실 마케팅 진행 예정입니다.</div>
+  <div class="color-ffd105 text-center fs-2">1차 국내 미용실 마케팅 종료 후 <br class="visible-xs">2차 중국 미용실 마케팅 진행 예정입니다.</div>
 </div>
 <div class="responsive-height"></div>
 <hr class="bc-ffd105 border-4">
@@ -175,7 +176,7 @@
   <img class="w-100 visible-xs" src="/static/img/mb/contact.png" alt="Contact">
   <img class="w-100 hidden-xs" src="/static/img/pc/contact.png" alt="Contact">
   <div class="height-10"></div>
-  <div class="text-center">성형 병원 + 자매 결연 마케팅 서비스는 자매 결연 맺을 미용실 대상 성형 병원 책자 1만부 인쇄 및 배포까지 서비스를 제공하며 미용실 1만 곳 배포 후 자매 결연 맺을 시 고정 성형 병원 브로셔 및 포스터 제작 인쇄 배포 비용 및 관리비는 별도입니다.</div>
+  <div class="text-center description">성형 병원 + 자매 결연 마케팅 서비스는 자매 결연 맺을 미용실 대상 성형 병원 책자 1만부 인쇄 및 배포까지 서비스를 제공하며 미용실 1만 곳 배포 후 자매 결연 맺을 시 고정 성형 병원 브로셔 및 포스터 제작 인쇄 배포 비용 및 관리비는 별도입니다.</div>
 </div>
 <div class="height-20"></div>
 <div class="responsive-height"></div>
