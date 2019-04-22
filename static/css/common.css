@@ -50,6 +50,9 @@ li {
 .fs-4 {
   font-size: 30px;
 }
+.fs-5 {
+  font-size: 37px;
+}
 
 .icon-1 {
   width: 40px;
@@ -80,6 +83,9 @@ li {
 }
 .color-1c2222 {
   color: #1c2222;
+}
+.color-ff9432 {
+  color: #ff9432;
 }
 
 .bc-fff {
@@ -128,6 +134,9 @@ li {
   .fs-4 {
     font-size: 35px;
   }
+  .fs-5 {
+    font-size: 43px;
+  }
 }
 
 
@@ -153,6 +162,9 @@ li {
   }
   .fs-4 {
     font-size: 45px;
+  }
+  .fs-5 {
+    font-size: 55px;
   }
   .icon-1 {
     width: 60px;
@@ -187,6 +199,9 @@ li {
   .fs-4 {
     font-size: 58px;
   }
+  .fs-5 {
+    font-size: 70px;
+  }
   .icon-1 {
     width: 80px;
   }
@@ -218,13 +233,23 @@ li {
   .fs-4 {
     font-size: 80px;
   }
+  .fs-5 {
+    font-size: 95px;
+  }
   .icon-1 {
     width: 100px;
   }
 }
+
 @media (min-width: 1300px) {
   .border-wrapper {
     border-width: 2px;
     border-style: solid;
+  }
+}
+
+@media (max-width: 374px) {
+  .main-title .fs-3 {
+    font-size: 21px;
   }
 }

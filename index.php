@@ -23,25 +23,18 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <!--<![endif]-->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137991745-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-137991745-1');
-</script>
 </head>
 <body>
 <div class="bc-ffd105 border-6"></div>
 <div class="wrapper">
   <div class="height-10"></div>
   <div class="responsive-height"></div>
-  <div class="bg-1c2222 title text-center">
+  <div class="bg-1c2222 title text-center main-title">
     <div class="fw-500">
-      <span class="color-c3df2a fs-3">성형병원 + 미용실</span><br>
-      <span class="fs-4">자매 결연 마케팅 </span>
-      <span class="fs-4 fw-300">제안서</span>
+      <span class="color-ff9432 fs-3">성형병원 + 미용실 자매결연 제안</span><br>
+      <span class="fs-3">미용실 손님 </span>
+      <span class="color-ff9432 fs-5">600</span>
+      <span class="fs-3">만명 타겟 광고</span>
     </div>
   </div>
   <div class="height-10"></div>
@@ -59,7 +52,7 @@
       </tr>
     </tbody>
   </table>
-  <p class="p-3 pb-4 mb-4">미용실과 성형병원을 자매 결연을 맺어 미용실 방문 손님에게 추천하는 시스템이며 주로 여성을 타겟으로 하는 강력한 홍보 플랫폼으로 병원 손님을 안정적으로 꾸준히 유치할 수 있습니다.</p>
+  <p class="p-3 pb-4 mb-4">미용실과 성형병원을 자매 결연을 맺어 미용실 방문 손님 <span class="color-ffd105 fs-2 fw-600">600만명</span>에게 추천하는 시스템이며 주로 여성을 타겟으로 하는 강력한 홍보 플랫폼으로 병원 손님을 안정적으로 꾸준히 유치할 수 있습니다.</p>
   <div class="responsive-height"></div>
   <div class="bc-c3df2a border-1"></div>
   <div class="responsive-height"></div>
@@ -180,5 +173,20 @@
 </div>
 <div class="height-20"></div>
 <div class="responsive-height"></div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137991745-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-137991745-1');
+</script>
+<!-- Naver Analytics -->
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+  if(!wcs_add) var wcs_add = {};
+  wcs_add["wa"] = "1257a515d0ecf0";
+  wcs_do();
+</script>
 </body>
 </html>
